@@ -11,7 +11,7 @@ Topic: Online Education Recommendation System (Coursera popular courses recommen
 * [Final Report](https://github.com/256xu/cmpe256individual/blob/master/Report_Hongfei_Xu.pdf)
 * [My Web Application (It will takes a few minutes to load if you use for the first time)](https://xu256indiv.herokuapp.com/)
 * [Web Application Source Codes](https://github.com/256xu/256iniv)
-* [Jupyter Notebook Codes and Data](https://github.com/256xu/cmpe256individual)
+* [Jupyter Notebook Codes and Data](https://github.com/256xu/cmpe256individual/tree/master/codes(jupyter)_and_data)
 * [Other Files (Mid-term Review and Presentation)](https://github.com/256xu/cmpe256individual/tree/master/slides_and_mid_review)
 * [Web App ZIP file](https://github.com/256xu/cmpe256individual/blob/master/app_cousera_recommender.zip)
 
