@@ -9,7 +9,7 @@ Topic: Online Education Recommendation System (Coursera popular courses recommen
 ## Contents
 
 * [Final Report](https://github.com/256xu/cmpe256individual/blob/master/Report_Hongfei_Xu.pdf)
-* [My Web Application (It will takes a few minutes to load if you use for the first time)](https://xu256indiv.herokuapp.com/)
+* [My Web Application (It will takes a few minutes to load if you use for the first time. If it crashes, you can refresh your browser several times to fix the problem)](https://xu256indiv.herokuapp.com/)
 * [Web Application Source Codes](https://github.com/256xu/256iniv)
 * [Jupyter Notebook Codes and Data](https://github.com/256xu/cmpe256individual/tree/master/codes(jupyter)_and_data)
 * [Other Files (Mid-term Review and Presentation)](https://github.com/256xu/cmpe256individual/tree/master/slides_and_mid_review)
@@ -20,6 +20,8 @@ Topic: Online Education Recommendation System (Coursera popular courses recommen
 
 If you don't want to run locally, just go to website.
 [My Web Application ](https://xu256indiv.herokuapp.com/)
+
+(It will takes a few minutes to load if you use for the first time. If it crashes, you can refresh your browser several times to fix the problem)]
 
 
 1. Download [Web Application Source Codes](https://github.com/256xu/256iniv)
