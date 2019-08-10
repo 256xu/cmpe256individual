@@ -21,11 +21,12 @@ Topic: Online Education Recommendation System (Coursera popular courses recommen
 If you don't want to run locally, just go to website.
 [My Web Application ](https://xu256indiv.herokuapp.com/)
 
-(It will takes a few minutes to load if you use for the first time. If it crashes, you can refresh your browser several times to fix the problem)]
+(It will takes a few minutes to load if you use for the first time. If it crashes, you can refresh your browser several times to fix the problem)
 
 Otherwise,
 
 **1. Download [Web Application Source Codes](https://github.com/256xu/256iniv)**
+
 **2. Dependencies**
 * Python 3.7
 * flask
