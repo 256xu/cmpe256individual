@@ -23,21 +23,22 @@ If you don't want to run locally, just go to website.
 
 (It will takes a few minutes to load if you use for the first time. If it crashes, you can refresh your browser several times to fix the problem)]
 
+Otherwise,
 
-1. Download [Web Application Source Codes](https://github.com/256xu/256iniv)
-2. Dependencies 
+**1. Download [Web Application Source Codes](https://github.com/256xu/256iniv)**
+**2. Dependencies**
 * Python 3.7
 * flask
 
-3. Commands to run app:
+**3. Commands to run app:**
  
-   install packages
+   **install packages**
    ```bash
 
    pip3 install -r requirements.txt
    ```
 
-   start the app 
+   **start the app** 
    ```bash
 
    python3 app.py
