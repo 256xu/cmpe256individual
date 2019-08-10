@@ -32,7 +32,7 @@ If you don't want to run locally, just go to website.
    install packages
    ```bash
 
-   pip3 install -r requirements.txt`
+   pip3 install -r requirements.txt
    ```
 
    start the app 
